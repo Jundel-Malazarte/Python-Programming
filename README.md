@@ -14,12 +14,15 @@
 
 using:
 
-bash -c '/usr/local/bin/python3 -m pip install qrcode[pil]'
+pip3 install qrcode[pil]
 
 **To Run Python QR code:**
 
-bash -c 'python3 QR-code-generator.py'
+python3 QR-code-generator.py
 
 **Terminal output:**
 
-bash -c 'QR code generated and saved as ./images/qrcode.png'
+'QR code generated and saved as ./images/qrcode.png'
+
+**Output:**
+![QRcode](./images/qrcode.png)
