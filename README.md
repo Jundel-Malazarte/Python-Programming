@@ -64,7 +64,7 @@ Python-Programming/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Python-Programming.git
+git clone https://github.com/jundel-malazarte/Python-Programming.git
 ```
 
 ```bash 
