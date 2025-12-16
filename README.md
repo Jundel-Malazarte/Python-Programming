@@ -1,6 +1,6 @@
 # Python-Programming
 
-A collection of Python projects ranging from beginner to advanced, covering a variety of topics such as web development, automation, games, and more. This repository is designed for learners who want to explore Python step by step, with practical examples and hands-on projects.
+A collection of Python projects ranging from beginner to advanced, covering a variety of topics such as web development, automation, and more. This repository is designed for learners who want to explore Python step by step, with practical examples and hands-on projects.
 
 ## Repository Structure
 
